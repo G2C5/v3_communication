@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "quertion": "javascript的引入方式？"
+    },
+    {
+        "id": 2,
+        "quertion": "什么是表达式？"
+    },
+    {
+        "id": 3,
+        "quertion": "谈谈作用域的理解？"
+    },
+    {
+        "id": 4,
+        "quertion": "谈谈作用域链的理解？"
+    },
+    {
+        "id": 5,
+        "quertion": "说说js预解析？"
+    },
+    {
+        "id": 6,
+        "quertion": "谈谈forEach、map、for循环的理解？"
+    },
+    {
+        "id": 7,
+        "quertion": "说说数据类型的检验方式？"
+    },
+    {
+        "id": 8,
+        "quertion": "说说基本数据类型有哪些？"
+    },
+    {
+        "id": 9,
+        "quertion": "基本数据类型之间的转换？"
+    },
+    {
+        "id": 10,
+        "quertion": "有哪些引用类型？"
+    },
+    {
+        "id": 11,
+        "quertion": "说说数组的遍历？"
+    },
+    {
+        "id": 12,
+        "quertion": "说说数组的增加、删除、截取、插入、排序、反转、分割、去重？"
+    },
+    {
+        "id": 13,
+        "quertion": "说说字符串与数组之间的转换？"
+    },
+    {
+        "id": 14,
+        "quertion": "冒泡排序？"
+    },
+    {
+        "id": 15,
+        "quertion": "arguments剩余参数特点？"
+    },
+    {
+        "id": 16,
+        "quertion": "对象的遍历"
+    },
+    {
+        "id": 17,
+        "quertion": "Math对象的常用方法？"
+    },
+    {
+        "id": 18,
+        "quertion": "Data对象的常用方法？"
+    },
+    {
+        "id": 19,
+        "quertion": "面向对象的三个特性？"
+    },
+    {
+        "id": 20,
+        "quertion": "构造函数和函数区别？"
+    },
+    {
+        "id": 21,
+        "quertion": "改变函数this指向方法？"
+    },
+    {
+        "id": 22,
+        "quertion": "什么是闭包？"
+    },
+    {
+        "id": 23,
+        "quertion": "递归的理解？"
+    },
+    {
+        "id": 24,
+        "quertion": "箭头函数的特点？"
+    },
+    {
+        "id": 25,
+        "quertion": "内置的数据结构Set的特点，及其实例方法有哪些？"
+    },
+    {
+        "id": 26,
+        "quertion": "内置的数据结构Map的特点，及其实例的方法有那些"
+    },
+    {
+        "id": 27,
+        "quertion": "es6扩展的filter、some、map、every数组方法作用特点？"
+    },
+    {
+        "id": 28,
+        "quertion": "Array.from(),find、finIndex、includes方法的作用特点？"
+    },
+    {
+        "id": 29,
+        "quertion": "trim、starsWidth、endsWidth方法作用？"
+    },
+    {
+        "id": 30,
+        "quertion": "内置的对象方法：Object.keys()特点与作用？"
+    },
+    {
+        "id": 31,
+        "quertion": "内置的对象方法：Object.entries()特点与作用？"
+    },
+    {
+        "id": 32,
+        "quertion": "内置的对象方法：Object.defineProperty()特点与作用？"
+    },
+    {
+        "id": 33,
+        "quertion": "浅拷贝与深拷贝特点？"
+    },
+    {
+        "id": 34,
+        "quertion": "内置的对象方法：Object.assign()特点与作用？"
+    },
+    {
+        "id": 35,
+        "quertion": "js继承方式？"
+    },
+    {
+        "id": 36,
+        "quertion": "扩展运算符特点？"
+    }
+]
